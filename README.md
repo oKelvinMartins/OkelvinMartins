@@ -36,7 +36,7 @@ Estudante de **Ciência da Computação** com foco em **Inteligência Artificial
 
 ### 📌 Destaques & Projetos Recentes
 
-- 📊 **[Nome do Dashboard]**: Dashboard analítico desenvolvido para visualização de métricas estratégicas, filtragem dinâmica e suporte a decisões.
+
 - 🤖 **[Nome do Projeto de ML]**: Pipeline preditivo cobrindo desde a limpeza e engenharia de variáveis até a validação do modelo com métricas de negócio.
 - 🏢 **[Projeto na Fábrica de Software]**: Solução desenvolvida para resolver uma demanda real de mercado utilizando metodologia ágil.
 
