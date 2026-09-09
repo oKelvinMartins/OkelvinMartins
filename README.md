@@ -1,6 +1,6 @@
 # Olá, eu sou Kelvin Martins! 👋
 
-**Dados & IA | Estudante de Ciência da Computação**
+** Engenharia de IA e Machine Learning | Estudante de Ciência da Computação**
 
 Busco atuar na área de Dados e Inteligência Artificial para traduzir desafios complexos de mercado em modelos e soluções que gerem valor. Sou apaixonado por resolver problemas usando dados, criar agentes de IA e desenvolver automações.
 
